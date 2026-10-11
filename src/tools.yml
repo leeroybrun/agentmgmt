@@ -1,3 +1,13 @@
+- name: Happier
+  url: https://www.happier.dev/
+  links:
+    - https://github.com/happier-dev/happier
+  details: Multi-device web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Augment Code, & much more. Fully end-to-end encrypted
+  price: Free
+  github_stars: 2900
+  opensource: true
+  os: [macos, linux, windows]
+
 - name: MonoCode
   url: https://www.usemono.dev/
   links:
